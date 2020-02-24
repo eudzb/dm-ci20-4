@@ -2,7 +2,7 @@
 
 ## Installation
 
-Run the command `yarn install`
+Run the command `make` and let the magic happens 🧚🏻‍♀️
 
 ## Start
 
